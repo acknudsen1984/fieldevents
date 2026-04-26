@@ -123,10 +123,10 @@ export default function PrivacyPage() {
             <p className="mt-2">
               To exercise any of these rights, email us at{" "}
               <a
-                href="mailto:support@fielddayapp.com"
+                href="mailto:support@knudsencanalesgroup.dev"
                 className="text-field-blue hover:underline"
               >
-                support@fielddayapp.com
+                support@knudsencanalesgroup.dev
               </a>
               .
             </p>
@@ -149,10 +149,10 @@ export default function PrivacyPage() {
               Knudsen Canales Group LLC
               <br />
               <a
-                href="mailto:support@fielddayapp.com"
+                href="mailto:support@knudsencanalesgroup.dev"
                 className="text-field-blue hover:underline"
               >
-                support@fielddayapp.com
+                support@knudsencanalesgroup.dev
               </a>
             </p>
           </Section>

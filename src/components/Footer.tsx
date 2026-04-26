@@ -56,10 +56,10 @@ export default function Footer() {
             <ul className="mt-3 space-y-2">
               <li>
                 <a
-                  href="mailto:support@fielddayapp.com"
+                  href="mailto:support@knudsencanalesgroup.dev"
                   className="text-sm text-gray-300 hover:text-white transition-colors"
                 >
-                  support@fielddayapp.com
+                  support@knudsencanalesgroup.dev
                 </a>
               </li>
               <li>

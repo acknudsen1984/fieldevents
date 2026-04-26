@@ -40,17 +40,17 @@ const faqs = [
   {
     question: "How do I report a problem with an event listing?",
     answer:
-      'If you notice incorrect information for an event — wrong time, location, or details — please tap the "Report" button on the event detail page or email us at support@fielddayapp.com. We review reports within 24 hours.',
+      'If you notice incorrect information for an event — wrong time, location, or details — please tap the "Report" button on the event detail page or email us at support@knudsencanalesgroup.dev. We review reports within 24 hours.',
   },
   {
     question: "Can I suggest an event?",
     answer:
-      "Yes! We love hearing about events we might have missed. Email us at support@fielddayapp.com with the event name, date, location, and a link if available. We'll review and add it if it fits our coverage area.",
+      "Yes! We love hearing about events we might have missed. Email us at support@knudsencanalesgroup.dev with the event name, date, location, and a link if available. We'll review and add it if it fits our coverage area.",
   },
   {
     question: "How do I delete my account?",
     answer:
-      "To delete your account and all associated data, email support@fielddayapp.com from the email address linked to your account. We will process your request within 5 business days.",
+      "To delete your account and all associated data, email support@knudsencanalesgroup.dev from the email address linked to your account. We will process your request within 5 business days.",
   },
 ];
 
@@ -76,10 +76,10 @@ export default function SupportPage() {
             Email us anytime and we&apos;ll get back to you within 24 hours.
           </p>
           <a
-            href="mailto:support@fielddayapp.com"
+            href="mailto:support@knudsencanalesgroup.dev"
             className="mt-4 inline-block rounded-full bg-field-blue px-6 py-2.5 text-sm font-semibold text-white hover:bg-field-blue-dark transition-colors"
           >
-            support@fielddayapp.com
+            support@knudsencanalesgroup.dev
           </a>
         </div>
 
@@ -111,7 +111,7 @@ export default function SupportPage() {
             We&apos;re real people who actually read every email.
           </p>
           <a
-            href="mailto:support@fielddayapp.com"
+            href="mailto:support@knudsencanalesgroup.dev"
             className="mt-4 inline-block rounded-full bg-field-blue px-6 py-2.5 text-sm font-semibold text-white hover:bg-field-blue-dark transition-colors"
           >
             Contact Support
